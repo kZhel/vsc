@@ -1,6 +1,6 @@
 var current_page;
 
-if (window.location.href == "file:///C:/Users/user/source/Factory/actory/p2TZ.html") { current_page = document.getElementById('a1'); }
+if (window.location.href == "file:///C:/Users/user/source/Factory/actory/p2Tz.html") { current_page = document.getElementById('a1'); }
 else if (window.location.href == "file:///C:/Users/user/source/Factory/actory/p1Yacheyky.html") { current_page = document.getElementById('a2'); }
 else { current_page = document.getElementById('a3'); }
 
