@@ -26,9 +26,17 @@ a:hover,a:focus{
 button.btn{
         background-color: #C4C4C4;
         border-radius: 20px;
-        position: relative;
-        left: 50%;
-        transform: translate(-50%, 0);
+
+}
+button.btn2{
+    background-color:  #F8E015;
+    border-radius: 20px;
+    border: none;
+    position: relative;
+    left: 50%;
+    transform: translate(-50%, 0);
+    width: 200px;
+
 }
 
 button.btn1{
