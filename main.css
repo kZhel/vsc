@@ -40,6 +40,9 @@ button.btn1{
 .form-control{
     margin-top: 25px;
     margin-bottom: 25px;
+    font-style: normal;
+    color: #000000;
+    background-color: #C4C4C4;
 }
 
 .col-md-1{
