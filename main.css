@@ -26,12 +26,16 @@ a:hover,a:focus{
 button.btn{
         background-color: #C4C4C4;
         border-radius: 20px;
+        position: relative;
+        left: 50%;
+        transform: translate(-50%, 0);
 }
 
 button.btn1{
     background-color: #F9F8F0;
     padding-top: 0px;  
 }
+
 
 .container{
     margin-top: 10%;
